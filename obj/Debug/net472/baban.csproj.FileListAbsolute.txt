@@ -1,0 +1,3 @@
+C:\Users\негры\Downloads\darknight\obj\Debug\net472\baban.csproj.AssemblyReference.cache
+C:\Users\негры\Downloads\darknight\obj\Debug\net472\baban.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\негры\Downloads\darknight\obj\Debug\net472\baban.csproj.CoreCompileInputs.cache
